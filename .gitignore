@@ -1,0 +1,8 @@
+# Ignore database backups and credentials
+mysql_backups/
+*.sql
+*.sql.gz
+*.bak
+.my.cnf
+.env
+*.log
